@@ -1,5 +1,5 @@
 //This is the hierarchical structural code
-module UniversalShift();
+module UniversalShift(L,S,Clock,Q);
 	input [0:3]L;
 	input [2:0]S;
 	input Clock;
